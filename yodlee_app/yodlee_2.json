@@ -1,0 +1,1228 @@
+{
+    "transaction": [
+        {
+            "CONTAINER": "bank",
+            "id": 95996102,
+            "amount": {
+                "amount": 52,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 22,
+            "category": "Restaurants",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000011,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "ZAINY'S UNIQUE",
+                "simple": "ZAINY'S UNIQUE"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-10-01",
+            "transactionDate": "2018-09-30",
+            "postDate": "2018-10-01",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "28519788",
+                "name": "U S",
+                "source": "YODLEE",
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996101,
+            "amount": {
+                "amount": 88.4,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 43,
+            "category": "Electronics/General Merchandise",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000004,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "Wal-Mart Super Cente",
+                "simple": "Walmart"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-10-01",
+            "transactionDate": "2018-09-30",
+            "postDate": "2018-10-01",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "26899041",
+                "name": "Walmart",
+                "source": "YODLEE",
+                "address": {
+                    "country": "US"
+                },
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996100,
+            "amount": {
+                "amount": 18.51,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 43,
+            "category": "Electronics/General Merchandise",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000004,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "WAL-MART #5012",
+                "simple": "Walmart"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-10-01",
+            "transactionDate": "2018-09-30",
+            "postDate": "2018-10-01",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "26899041",
+                "name": "Walmart",
+                "source": "YODLEE",
+                "address": {
+                    "country": "US"
+                },
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95995749,
+            "amount": {
+                "amount": 204.99,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 19,
+            "category": "Other Expenses",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000009,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "x0690PAPHPGRNWD",
+                "simple": "x0690PAPHPGRNWD"
+            },
+            "type": "OTHER_WITHDRAWALS",
+            "subType": "DEBIT",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-10-01",
+            "transactionDate": "2018-09-30",
+            "postDate": "2018-10-01",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "28519788",
+                "name": "U S",
+                "source": "YODLEE",
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996103,
+            "amount": {
+                "amount": 36.9,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 7,
+            "category": "Entertainment/Recreation",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000011,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "ROBLOX CORP",
+                "simple": "ROBLOX CORP"
+            },
+            "type": "OTHER_WITHDRAWALS",
+            "subType": "DEBIT",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-30",
+            "transactionDate": "2018-09-29",
+            "postDate": "2018-09-30",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "28519788",
+                "name": "U S",
+                "source": "YODLEE",
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996104,
+            "amount": {
+                "amount": 143.77,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 15,
+            "category": "Cable/Satellite/Telecom",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000004,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "VERIZON*RECURRING PAY",
+                "simple": "Verizon"
+            },
+            "type": "PAYMENT",
+            "subType": "RECURRING_SUBSCRIPTION_PAYMENT",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-29",
+            "transactionDate": "2018-09-28",
+            "postDate": "2018-09-29",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "10001343",
+                "name": "Verizon",
+                "source": "YODLEE",
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996106,
+            "amount": {
+                "amount": 500,
+                "currency": "USD"
+            },
+            "baseType": "CREDIT",
+            "categoryType": "INCOME",
+            "categoryId": 29,
+            "category": "Salary/Regular Income",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000012,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "ENVESTNET FIN PAYROLLPPD ID: xxxxxx2327",
+                "simple": "Envestnet Direct Deposit/Salary"
+            },
+            "type": "DEPOSITS_CREDITS",
+            "subType": "DIRECT_DEPOSIT_SALARY",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-28",
+            "transactionDate": "2018-09-27",
+            "postDate": "2018-09-28",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "32267629",
+                "name": "Envestnet",
+                "source": "YODLEE",
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996105,
+            "amount": {
+                "amount": 16,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 10,
+            "category": "Groceries",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000004,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "HARRY'S xxx-xxx-6855",
+                "simple": "Harry's"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-28",
+            "transactionDate": "2018-09-27",
+            "postDate": "2018-09-28",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "27059918",
+                "name": "Harry'S",
+                "source": "YODLEE",
+                "address": {
+                    "country": "US"
+                },
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996109,
+            "amount": {
+                "amount": 2500,
+                "currency": "USD"
+            },
+            "baseType": "CREDIT",
+            "categoryType": "INCOME",
+            "categoryId": 29,
+            "category": "Salary/Regular Income",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000012,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "ENVESTNET FIN PAYROLL ***********4192",
+                "simple": "Envestnet Direct Deposit/Salary"
+            },
+            "type": "DEPOSITS_CREDITS",
+            "subType": "DIRECT_DEPOSIT_SALARY",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-27",
+            "transactionDate": "2018-09-26",
+            "postDate": "2018-09-27",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "32267629",
+                "name": "Envestnet",
+                "source": "YODLEE",
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996108,
+            "amount": {
+                "amount": 41,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 16,
+            "category": "Services/Supplies",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000007,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "PIONEER HAMILTON NJ",
+                "simple": "Pioneer Hamilton NJ"
+            },
+            "type": "OTHER_WITHDRAWALS",
+            "subType": "DEBIT",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-27",
+            "transactionDate": "2018-09-26",
+            "postDate": "2018-09-27",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "28072188",
+                "name": "Pioneer",
+                "source": "YODLEE",
+                "address": {
+                    "city": "Hamilton",
+                    "state": "NJ",
+                    "country": "US"
+                },
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996107,
+            "amount": {
+                "amount": 8.81,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 22,
+            "category": "Restaurants",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000011,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "DUNKIN #xx0481 Q35 HAMILTON NJ",
+                "simple": "Dunkin' Donuts Hamilton NJ"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-27",
+            "transactionDate": "2018-09-26",
+            "postDate": "2018-09-27",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "0f7bea5a-9265-47e1-9f8d-958beec9d4cf",
+                "name": "Dunkin' Donuts",
+                "source": "FACTUAL",
+                "address": {
+                    "city": "Hamilton",
+                    "state": "NJ",
+                    "country": "US",
+                    "zip": "8619.0"
+                },
+                "coordinates": {
+                    "latitude": 40.23251,
+                    "longitude": -74.70902
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996120,
+            "amount": {
+                "amount": 48.4,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 22,
+            "category": "Restaurants",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000011,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "POLLO CAMPERO TRENTON NJ",
+                "simple": "Pollo Campero Trenton NJ"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-24",
+            "transactionDate": "2018-09-23",
+            "postDate": "2018-09-24",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "32b2e517-2c79-4284-9177-ced168af7747",
+                "name": "Pollo Campero",
+                "source": "FACTUAL",
+                "address": {
+                    "city": "Trenton",
+                    "state": "NJ",
+                    "country": "US",
+                    "zip": "8609.0"
+                },
+                "coordinates": {
+                    "latitude": 40.216919,
+                    "longitude": -74.744249
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996119,
+            "amount": {
+                "amount": 12.74,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 22,
+            "category": "Restaurants",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000011,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "HAMILTON BAGEL STOP HAMILTON NJ",
+                "simple": "HAMILTON BAGEL STOP HAMILTON NJ"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-24",
+            "transactionDate": "2018-09-23",
+            "postDate": "2018-09-24",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "10009875",
+                "source": "YODLEE",
+                "address": {
+                    "city": "Hamilton",
+                    "state": "NJ",
+                    "country": "US"
+                },
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996118,
+            "amount": {
+                "amount": 9.57,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 11,
+            "category": "Healthcare/Medical",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000006,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "RITE AID STORE - 3324 TRENTON NJ",
+                "simple": "Rite Aid Trenton NJ"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-24",
+            "transactionDate": "2018-09-23",
+            "postDate": "2018-09-24",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "12dfc07b-8331-42f2-af6e-0cfa37ca2191",
+                "name": "Rite Aid",
+                "source": "FACTUAL",
+                "address": {
+                    "city": "Trenton",
+                    "state": "NJ",
+                    "country": "US",
+                    "zip": "8690.0"
+                },
+                "coordinates": {
+                    "latitude": 40.205359,
+                    "longitude": -74.689788
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996117,
+            "amount": {
+                "amount": 28.41,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 2,
+            "category": "Automotive/Fuel",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000003,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "COSTCO GAS #1199 LAWRENCE TOWNNJ",
+                "simple": "Costco Gas Stations Lawrence"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-24",
+            "transactionDate": "2018-09-23",
+            "postDate": "2018-09-24",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "32306570",
+                "name": "Costco Gas Stations",
+                "source": "YODLEE",
+                "address": {
+                    "city": "Lawrence",
+                    "country": "US"
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996116,
+            "amount": {
+                "amount": 9.31,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 22,
+            "category": "Restaurants",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000011,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "DUNKIN #xx0575 Q35 TRENTON NJ",
+                "simple": "Dunkin' Donuts Trenton NJ"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-24",
+            "transactionDate": "2018-09-23",
+            "postDate": "2018-09-24",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "07809c12-f8a7-4a01-b4c0-637c3fa7ba7a",
+                "name": "Dunkin' Donuts",
+                "source": "FACTUAL",
+                "address": {
+                    "city": "Trenton",
+                    "state": "NJ",
+                    "country": "US",
+                    "zip": "8609.0"
+                },
+                "coordinates": {
+                    "latitude": 40.218403,
+                    "longitude": -74.753747
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996115,
+            "amount": {
+                "amount": 11.71,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 22,
+            "category": "Restaurants",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000011,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "MCDONALD'S F453 TRENTON NJ",
+                "simple": "McDonald's Trenton NJ"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-24",
+            "transactionDate": "2018-09-23",
+            "postDate": "2018-09-24",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "10337757",
+                "name": "McDonald's",
+                "source": "YODLEE",
+                "address": {
+                    "city": "Trenton",
+                    "state": "NJ",
+                    "country": "US"
+                },
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996114,
+            "amount": {
+                "amount": 60.33,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 17,
+            "category": "Loans",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000004,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "IPHONE CITIZ*PMT 1 OF 24",
+                "simple": "Citizens Bank"
+            },
+            "type": "OTHER_WITHDRAWALS",
+            "subType": "DEBIT",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-24",
+            "transactionDate": "2018-09-23",
+            "postDate": "2018-09-24",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "26910661",
+                "name": "Citizens Bank",
+                "source": "YODLEE",
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996113,
+            "amount": {
+                "amount": 24.51,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 42,
+            "category": "Pets/Pet Care",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000004,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "PETVALU # 2495 BRUNSWI LAWRENCEVILLENJ",
+                "simple": "Petvalu Lawrenceville NJ"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-24",
+            "transactionDate": "2018-09-23",
+            "postDate": "2018-09-24",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "30018302",
+                "name": "Petvalu",
+                "source": "YODLEE",
+                "address": {
+                    "city": "Lawrenceville",
+                    "state": "NJ",
+                    "country": "US"
+                },
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996112,
+            "amount": {
+                "amount": 18.78,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 22,
+            "category": "Restaurants",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000011,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "DAIRY QUEEN xxx3155 S DELMORRISVILLE PA",
+                "simple": "Dairy Queen Morrisville PA"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-24",
+            "transactionDate": "2018-09-23",
+            "postDate": "2018-09-24",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "0c61d3de-29f2-412a-b6d6-8b1613d97921",
+                "name": "Dairy Queen",
+                "source": "FACTUAL",
+                "address": {
+                    "city": "Morrisville",
+                    "state": "PA",
+                    "country": "US",
+                    "zip": "19067.0"
+                },
+                "coordinates": {
+                    "latitude": 40.209114,
+                    "longitude": -74.772525
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996111,
+            "amount": {
+                "amount": 8.15,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 11,
+            "category": "Healthcare/Medical",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000006,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "RITE AID STORE - 3324 TRENTON NJ",
+                "simple": "Rite Aid Trenton NJ"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-24",
+            "transactionDate": "2018-09-23",
+            "postDate": "2018-09-24",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "12dfc07b-8331-42f2-af6e-0cfa37ca2191",
+                "name": "Rite Aid",
+                "source": "FACTUAL",
+                "address": {
+                    "city": "Trenton",
+                    "state": "NJ",
+                    "country": "US",
+                    "zip": "8690.0"
+                },
+                "coordinates": {
+                    "latitude": 40.205359,
+                    "longitude": -74.689788
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996110,
+            "amount": {
+                "amount": 47,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 2,
+            "category": "Automotive/Fuel",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000003,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "DELTA GAS TRENTON NJ",
+                "simple": "Delta Gas Station Trenton NJ"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-24",
+            "transactionDate": "2018-09-23",
+            "postDate": "2018-09-24",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "38e2c485-3a9c-4b1a-9096-777ccc2c77f3",
+                "name": "Delta Gas",
+                "source": "FACTUAL",
+                "address": {
+                    "city": "Trenton",
+                    "state": "NJ",
+                    "country": "US",
+                    "zip": "8610.0"
+                },
+                "coordinates": {
+                    "latitude": 40.205685,
+                    "longitude": -74.710117
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996122,
+            "amount": {
+                "amount": 68.26,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 43,
+            "category": "Electronics/General Merchandise",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000004,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "COSTCO WHSE #1199 LAWRENCE TOWNNJ",
+                "simple": "Costco Lawrence Township NJ"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-23",
+            "transactionDate": "2018-09-22",
+            "postDate": "2018-09-23",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "822f3854-4b91-48a2-a3a8-a82363edbed6",
+                "name": "Costco",
+                "source": "FACTUAL",
+                "address": {
+                    "city": "Lawrence Township",
+                    "state": "NJ",
+                    "country": "US",
+                    "zip": "8648.0"
+                },
+                "coordinates": {
+                    "latitude": 40.281471,
+                    "longitude": -74.674828
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996121,
+            "amount": {
+                "amount": 171.12,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 14,
+            "category": "Insurance",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000020,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "ALLSTATE *NJPAYM",
+                "simple": "Allstate Insurance Payment"
+            },
+            "type": "PAYMENT",
+            "subType": "INSURANCE_PAYMENT",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-23",
+            "transactionDate": "2018-09-22",
+            "postDate": "2018-09-23",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "10005960",
+                "name": "Allstate",
+                "source": "YODLEE",
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996123,
+            "amount": {
+                "amount": 500,
+                "currency": "USD"
+            },
+            "baseType": "CREDIT",
+            "categoryType": "TRANSFER",
+            "categoryId": 28,
+            "category": "Transfers",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000015,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "ELECTRONIC PAYMENT-THANK YOU",
+                "simple": "ELECTRONIC PAYMENT-THANK YOU"
+            },
+            "type": "OTHER_DEPOSITS",
+            "subType": "CREDIT",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-22",
+            "transactionDate": "2018-09-21",
+            "postDate": "2018-09-22",
+            "status": "POSTED",
+            "accountId": 11896047
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996126,
+            "amount": {
+                "amount": 105.56,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 2,
+            "category": "Automotive/Fuel",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000003,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "TEAM TOYOTA OF PRINCETON LAWRENCEVILLENJ",
+                "simple": "Toyota Lawrenceville NJ"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-21",
+            "transactionDate": "2018-09-20",
+            "postDate": "2018-09-21",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "b3599f8c-c417-4de1-8c27-783b18246100",
+                "name": "Toyota",
+                "source": "FACTUAL",
+                "address": {
+                    "city": "Lawrenceville",
+                    "state": "NJ",
+                    "country": "US",
+                    "zip": "8648.0"
+                },
+                "coordinates": {
+                    "latitude": 40.271051,
+                    "longitude": -74.711816
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996125,
+            "amount": {
+                "amount": 500,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "TRANSFER",
+            "categoryId": 26,
+            "category": "Credit Card Payments",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000018,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "Online Payment xxxxxx8457 To COSTCO ANYWHERE CARD US",
+                "simple": "Costco Credit Card Payment"
+            },
+            "type": "PAYMENT",
+            "subType": "CREDIT_CARD_PAYMENT",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-21",
+            "transactionDate": "2018-09-20",
+            "postDate": "2018-09-21",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "10003679",
+                "name": "Costco",
+                "source": "YODLEE",
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996124,
+            "amount": {
+                "amount": 565,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "TRANSFER",
+            "categoryId": 26,
+            "category": "Credit Card Payments",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000018,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "Payment to Chase card ending in2914",
+                "simple": "Chase Credit Card Payment"
+            },
+            "type": "PAYMENT",
+            "subType": "CREDIT_CARD_PAYMENT",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-21",
+            "transactionDate": "2018-09-20",
+            "postDate": "2018-09-21",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "32280006",
+                "name": "Chase",
+                "source": "YODLEE",
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996128,
+            "amount": {
+                "amount": 200,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 22,
+            "category": "Restaurants",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000011,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "VILLA MARIA RESTAURANT MERCERVILLE NJ",
+                "simple": "Villa Maria Restaurant Mercerville NJ"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-20",
+            "transactionDate": "2018-09-19",
+            "postDate": "2018-09-20",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "27329958",
+                "name": "Villa Maria Restaurant",
+                "source": "YODLEE",
+                "address": {
+                    "city": "mercerville",
+                    "state": "nj",
+                    "country": "US"
+                },
+                "coordinates": {
+                    "latitude": 0,
+                    "longitude": 0
+                }
+            }
+        },
+        {
+            "CONTAINER": "bank",
+            "id": 95996127,
+            "amount": {
+                "amount": 5.83,
+                "currency": "USD"
+            },
+            "baseType": "DEBIT",
+            "categoryType": "EXPENSE",
+            "categoryId": 10,
+            "category": "Groceries",
+            "categorySource": "SYSTEM",
+            "highLevelCategoryId": 10000004,
+            "createdDate": "2018-10-21T01:37:41Z",
+            "lastUpdated": "2018-10-21T01:37:41Z",
+            "description": {
+                "original": "QUICK CHEK FOOD STR 00110TRENTON NJ",
+                "simple": "Quick Chek Trenton NJ"
+            },
+            "type": "PURCHASE",
+            "subType": "PURCHASE",
+            "isManual": false,
+            "sourceType": "AGGREGATED",
+            "date": "2018-09-20",
+            "transactionDate": "2018-09-19",
+            "postDate": "2018-09-20",
+            "status": "POSTED",
+            "accountId": 11896047,
+            "merchant": {
+                "id": "af9d25d5-6a2a-4aa1-96b5-b3390d29c964",
+                "name": "Quick Chek",
+                "source": "FACTUAL",
+                "address": {
+                    "city": "Trenton",
+                    "state": "NJ",
+                    "country": "US",
+                    "zip": "8610.0"
+                },
+                "coordinates": {
+                    "latitude": 40.191457,
+                    "longitude": -74.713309
+                }
+            }
+        }
+    ]
+}

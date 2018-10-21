@@ -1,0 +1,266 @@
+{
+	"info": {
+		"_postman_id": "0f5ed76a-3a28-40ac-b6cf-34c8f5c814d6",
+		"name": "Customer360 Credit",
+		"description": "Customer360 Credit APIs provide some basic detail about a customer's credit profile at Synchrony",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "customers",
+			"item": [
+				{
+					"name": "The Purhcase Statistics endpoint will provide information about a cardholders recent purchases",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							},
+							{
+								"key": "X-SYF-Request-TrackingId",
+								"value": "{{X-SYF-Request-TrackingId}}"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "https://api-stg.syf.com/m2020/credit/customers/:customerId/purchaseStatistics",
+							"protocol": "https",
+							"host": [
+								"api-stg",
+								"syf",
+								"com"
+							],
+							"path": [
+								"m2020",
+								"credit",
+								"customers",
+								":customerId",
+								"purchaseStatistics"
+							],
+							"variable": [
+								{
+									"key": "customerId",
+									"value": "{{customerId}}"
+								}
+							]
+						},
+						"description": "Customer purchaseStatistics."
+					},
+					"response": []
+				},
+				{
+					"name": "Customer transactions",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							},
+							{
+								"key": "X-SYF-Request-TrackingId",
+								"value": "{{X-SYF-Request-TrackingId}}"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "https://api-stg.syf.com/m2020/credit/customers/:customerId/transactions",
+							"protocol": "https",
+							"host": [
+								"api-stg",
+								"syf",
+								"com"
+							],
+							"path": [
+								"m2020",
+								"credit",
+								"customers",
+								":customerId",
+								"transactions"
+							],
+							"variable": [
+								{
+									"key": "customerId",
+									"value": "{{customerId}}"
+								}
+							]
+						},
+						"description": "Recent transaction information from a Synchrony customer on a specific account"
+					},
+					"response": []
+				},
+				{
+					"name": "Credit Profile",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							},
+							{
+								"key": "X-SYF-Request-TrackingId",
+								"value": "{{X-SYF-Request-TrackingId}}"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "https://api-stg.syf.com/m2020/credit/customers/:customerId/profile",
+							"protocol": "https",
+							"host": [
+								"api-stg",
+								"syf",
+								"com"
+							],
+							"path": [
+								"m2020",
+								"credit",
+								"customers",
+								":customerId",
+								"profile"
+							],
+							"variable": [
+								{
+									"key": "customerId",
+									"value": "{{customerId}}"
+								}
+							]
+						},
+						"description": "Provides detailed information about a Synchrony Cardholder's credit profile"
+					},
+					"response": []
+				},
+				{
+					"name": "A customer's purchase statistics on a Sychrony account identified by a specific account ID",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							},
+							{
+								"key": "X-SYF-Request-TrackingId",
+								"value": "{{X-SYF-Request-TrackingId}}"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "https://api-stg.syf.com/m2020/credit/customers/:customerId/purchaseStatistics/:accountId",
+							"protocol": "https",
+							"host": [
+								"api-stg",
+								"syf",
+								"com"
+							],
+							"path": [
+								"m2020",
+								"credit",
+								"customers",
+								":customerId",
+								"purchaseStatistics",
+								":accountId"
+							],
+							"variable": [
+								{
+									"key": "customerId",
+									"value": "{{customerId}}"
+								},
+								{
+									"key": "accountId",
+									"value": "{{accountId}}"
+								}
+							]
+						},
+						"description": "Statistics surrounding recent purchases on a specific Synchrony account"
+					},
+					"response": []
+				},
+				{
+					"name": "A Synchrony customer's single specific transaction for a single account identified by customer ID and transaction ID",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							},
+							{
+								"key": "X-SYF-Request-TrackingId",
+								"value": "{{X-SYF-Request-TrackingId}}"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "https://api-stg.syf.com/m2020/credit/customers/:customerId/transactions/:transactionId",
+							"protocol": "https",
+							"host": [
+								"api-stg",
+								"syf",
+								"com"
+							],
+							"path": [
+								"m2020",
+								"credit",
+								"customers",
+								":customerId",
+								"transactions",
+								":transactionId"
+							],
+							"variable": [
+								{
+									"key": "customerId",
+									"value": "{{customerId}}"
+								},
+								{
+									"key": "transactionId",
+									"value": "{{transactionId}}"
+								}
+							]
+						},
+						"description": "A Synchrony customer's specific transaction identified by a specific transaction ID unique to this customer"
+					},
+					"response": []
+				}
+			],
+			"description": "Folder for customers"
+		}
+	]
+}
